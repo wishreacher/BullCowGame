@@ -7,10 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="251d4578-2ba0-48a6-8df0-88f2cb1d8611" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BullCowGame/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/BullCowGame/HiddenWordList.h" afterDir="false" />
+    <list default="true" id="251d4578-2ba0-48a6-8df0-88f2cb1d8611" name="Default Changelist" comment="Adding array of words">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BullCowGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BullCowGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/Level1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/Level1_BuiltData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level1_BuiltData.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.h" afterDir="false" />
     </list>
@@ -24,11 +24,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/HAL/Platform.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/BullCowGame/HiddenWordList.h" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.h" />
       <option value="$PROJECT_DIR$/Source/BullCowGame/HiddenWordList.h" />
+      <option value="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.h" />
       <option value="$PROJECT_DIR$/Source/BullCowGame/BullCowCartridge.cpp" />
     </changedPaths>
   </component>
@@ -53,6 +54,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="CppIncludesOrderConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -182,8 +184,19 @@
       <workItem from="1611858180340" duration="56000" />
       <workItem from="1612017663350" duration="1632000" />
       <workItem from="1612167850275" duration="1560000" />
-      <workItem from="1612429184478" duration="2762000" />
+      <workItem from="1612429184478" duration="2826000" />
+      <workItem from="1612552804439" duration="2564000" />
+      <workItem from="1612706798298" duration="2640000" />
+      <workItem from="1612714744769" duration="1573000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding array of words">
+      <created>1612431979258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612431979258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,9 +214,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Adding array of words" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding array of words" />
   </component>
 </project>

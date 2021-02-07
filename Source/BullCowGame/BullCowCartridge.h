@@ -15,7 +15,8 @@ public:
 	void SetupGame();
 	void EndGame();
 	void ProccesGuess(FString Guess);
-	bool IsIsogram(FString Word);
+	bool IsIsogram(FString Word) const;
+	TArray<FString> GetValidWords(TArray<FString>) const;
 private:
 	FString HiddenWord;
 	int32 Lives;
